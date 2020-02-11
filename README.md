@@ -1,7 +1,7 @@
 # DataScience-Class
 Basics of Data Science with numpy, pandas and matplotlib
 <code>
-#Try this pie chart
+#Try this pie chart <br>
 import pandas as pd <br>
 import matplotlib.pyplot as plt<br>
 data = pd.read_csv('CarData.csv')<br>
