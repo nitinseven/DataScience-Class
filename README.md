@@ -1,2 +1,2 @@
 # DataScience-Class
-Basics of Data Science with numpy, pandas and matplotlib
+Imp instructions of numpy, pandas and matplotlib
