@@ -1,6 +1,6 @@
 # DataScience-Class
 Basics of Data Science with numpy, pandas and matplotlib
-
+<code>
 #Try this pie chart
 import pandas as pd
 import matplotlib.pyplot as plt
